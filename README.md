@@ -1,4 +1,4 @@
-# GameQSorter \\\ work in progress \\\
+# gameQsorter || work in progress ||
 **a tool to sort your gaming queue based on a howlongtobeat/metacritic-ratio**
 
 ## Instructions
